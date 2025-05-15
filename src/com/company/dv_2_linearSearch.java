@@ -22,6 +22,20 @@ public class dv_2_linearSearch {
         for (int element: arr) {
             System.out.print(element + ", ");
         }
+        boolean has14 = false;
+        for(int element : arr){
+            if(element == 14){
+                has14 = true;
+                break;
+            }
+        }
+        System.out.println();
+
+        if(has14){
+            System.out.println("yes it presents the number fourteen");
+        }else{
+            System.out.println("it doesn't contain number fourteen");
+        }
 
 
     }
