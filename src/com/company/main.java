@@ -1,7 +1,7 @@
 package com.company;
 
-public class Methods {
+public class main {
     public static void main(String[] args) {
-        System.out.println("methods in java");
+        System.out.println("nothing");
     }
 }
