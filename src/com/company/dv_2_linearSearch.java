@@ -30,7 +30,6 @@ public class dv_2_linearSearch {
             }
         }
         System.out.println();
-
         if(has14){
             System.out.println("yes it presents the number fourteen");
         }else{
