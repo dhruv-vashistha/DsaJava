@@ -1,0 +1,3 @@
+# List of all the numbers that i have done of the leetcode from the kunal kushwaha's assignment--
+Topic- Arrays
+Easy -- 1 -- build array from the array list 
