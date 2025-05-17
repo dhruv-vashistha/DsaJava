@@ -2,7 +2,7 @@ package com.company;
 
 public class dv_2_LEETCodeProblemMeth2 {
     static int isEven(int num){
-        return (int)(Math.log10(num));
+        return (int)(Math.log10(num)) + 1;
     }
     public static void main(String[] args) {
         int[] arr = {333, 53, 53, 6, 7888, 22, 97, 333, 77, 2222 ,44, 5};
